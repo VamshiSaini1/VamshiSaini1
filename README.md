@@ -1,6 +1,25 @@
 <h1>Howdy, I'm Vamshi Saini! <br/><a href="https://github.com/VamshiSaini1">MSDS'26 @ Western Michigan University</a> & 
   <a href="https://www.linkedin.com/in/vamshisaini01/"> A Data Professional</a>
 
+<h2>Work Experience:</h2>
+
+- <b>Western Michigan University | Part Time | Kalamazoo, MI, USA.</b> 
+  - <b>Student Supervisor & Student Office Administrative Assistant | Jan 2024 - Present</b>
+  
+- <b>Capgemini | Full Time | Mumbai, India.</b> 
+  - <b>Senior Analyst/Senior Software Engineer | Sept 2021 - Dec 2023</b> 
+
+- <b>Verzeo | Internship | Hyderabad, India.</b> 
+  - <b>Software Engineering Intern | Jun 2020 - Jul 2020</b>
+
+<h2>Education</h2>
+
+- <b>Western Michigan University | Kalamazoo, MI, USA.</b> 
+  - <b>Masters in Data Science | Jan 2024 - Apr 2026</b>
+  
+- <b>GITAM University | Hyderabad, TS, India.</b> 
+  - <b>Bachelor of Technology, Electronics and Communication Engineering | July 2017 - July 2021</b> 
+
 <h2 align="left">Language and Tools:</h3>
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
